@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.18870-b31b1b.svg)](https://arxiv.org/abs/2510.18870)
 
 
 By [Jeffrey Ouyang-Zhang](https://jozhang97.github.io/)<sup>a,b</sup>, [Pranav Murugan](https://pranavmurugan.github.io)<sup>a</sup>, [Daniel J. Diaz](http://danny305.github.io)<sup>b</sup>, [Gianluca Scarpellini](https://scarpellini.dev/)<sup>a</sup>, [Richard Strong Bowen](http://rsbowen.github.io)<sup>a</sup>, [Nate Gruver](https://ngruver.github.io)<sup>a</sup>, [Adam Klivans](https://www.cs.utexas.edu/users/klivans/)<sup>b</sup>, [Philipp Krähenbühl](http://www.philkr.net/)<sup>b</sup>, [Aleksandra Faust](https://www.afaust.info)<sup>a</sup>, and [Maruan Al-Shedivat](https://maruan.alshedivat.com)<sup>a</sup>
